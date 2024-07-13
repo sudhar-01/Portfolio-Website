@@ -1,0 +1,9 @@
+.background-layer {
+  height: 100%;
+  width: 100%;
+}
+
+.body-layer {
+  width: 100vw;
+  background: linear-gradient(to bottom, #040870, #000f46);
+}

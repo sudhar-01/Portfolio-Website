@@ -1,0 +1,11 @@
+.blob-style {
+  position: absolute;
+  top: -500px;
+  left: -100px;
+  @media only screen and (min-height: 1080px) {
+    top: -300px;
+    scale: 1.2;
+  }
+}
+
+

@@ -1,0 +1,53 @@
+.timeline-vertical {
+  height: 200px;
+  width: 10px;
+  background-color: white;
+  position: absolute;
+}
+
+.timeline-vertical-fill {
+  height: 200px;
+  width: 10px;
+  background-color: white;
+  position: absolute;
+  background-color: #66ffda;
+  /* animation: fill-line-vertical 2s linear; */
+  animation-fill-mode: backwards;
+}
+
+.timeline-horizontal {
+  height: 10px;
+  width: 90%;
+  background-color: white;
+  position: absolute;
+  top: 250px;
+  left: 5%;
+}
+
+.timeline-horizontal-fill {
+  height: 10px;
+  width: 90%;
+  background-color: white;
+  position: absolute;
+  background-color: #66ffda;
+  /* animation: fill-line-horizontal 2s linear; */
+  animation-fill-mode: backwards;
+}
+
+@keyframes fill-line-vertical {
+  from {
+    height: 0px;
+  }
+  to {
+    height: 150px;
+  }
+}
+
+@keyframes fill-line-horizontal {
+  from {
+    width: 0px;
+  }
+  to {
+    width: 90%;
+  }
+}

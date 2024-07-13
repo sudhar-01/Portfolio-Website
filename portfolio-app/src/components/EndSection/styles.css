@@ -1,0 +1,58 @@
+.endsection {
+    width: 100%;
+    height: 400px;
+    background-color: #365DE4;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Poppins';
+    color: white;
+    font-weight: 100;
+}
+
+.upper-div {
+    flex: 6;
+    display: flex;
+}
+
+.freelancing-content {
+    width: 70%;
+    padding: 50px;
+    padding-right: 20%;
+}
+
+.contact {
+    width: 30%;
+    padding: 50px;
+}
+
+.contact a {
+    color: white;
+    text-decoration: none;
+}
+
+.contact a:hover {
+    text-decoration: underline;
+}
+
+.freelancing-title {
+    font-size: 30px;
+    font-weight:500;
+}
+
+.bottom-div {
+    flex: 1;
+    border-top: 1px solid white;
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.bottom-div a {
+    color: white;
+    text-decoration: none;
+}
+
+.bottom-div a:hover {
+    text-decoration: underline;
+}
