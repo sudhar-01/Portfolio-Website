@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Website/static/css/main.5d85f659.css",
+    "main.js": "/Portfolio-Website/static/js/main.2b9ced85.js",
+    "static/js/453.f4fbaa6d.chunk.js": "/Portfolio-Website/static/js/453.f4fbaa6d.chunk.js",
+    "static/media/profile-photo.png": "/Portfolio-Website/static/media/profile-photo.2e2f1cabc53d92aa9ba0.png",
+    "static/media/designer-logo.png": "/Portfolio-Website/static/media/designer-logo.042b417b68fbd48e439b.png",
+    "static/media/instagram-icon.png": "/Portfolio-Website/static/media/instagram-icon.bdbad061a81b0de5620d.png",
+    "static/media/cash-flow.png": "/Portfolio-Website/static/media/cash-flow.14f3fdc358a988d397e7.png",
+    "static/media/location-icon.svg": "/Portfolio-Website/static/media/location-icon.b0c20c77eae85b3f24b84ac5882ed60c.svg",
+    "static/media/work-icon.svg": "/Portfolio-Website/static/media/work-icon.b179302ce461538ce6bb1dbbda04726f.svg",
+    "index.html": "/Portfolio-Website/index.html",
+    "static/media/email-icon.svg": "/Portfolio-Website/static/media/email-icon.8e8e66b2b5effab11e82002a63c58365.svg",
+    "main.5d85f659.css.map": "/Portfolio-Website/static/css/main.5d85f659.css.map",
+    "main.2b9ced85.js.map": "/Portfolio-Website/static/js/main.2b9ced85.js.map",
+    "453.f4fbaa6d.chunk.js.map": "/Portfolio-Website/static/js/453.f4fbaa6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d85f659.css",
+    "static/js/main.2b9ced85.js"
+  ]
+}
