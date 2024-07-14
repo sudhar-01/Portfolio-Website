@@ -10,10 +10,13 @@ import figma from "../../assets/figma-logo.png";
 import androidStudio from "../../assets/android-studio-logo.png";
 import Blob from "../Blob/Blob";
 import ProfileSection from "../ProfileSection/ProfileSection";
+import Background from "../Background/Background";
 
 export default function TitleSection() {
   return (
     <div className="title-section">
+      {/* <Background /> */}
+
       <img src={logo} alt="desginer-logo" className="designer-logo" />
       <div className="designer-title">
         <p className="designer-text">DESIGNER</p>

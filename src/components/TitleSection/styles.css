@@ -33,8 +33,8 @@
 }
 
 .designer-text {
-  font-size: 90px;
-  font-family: "Rubik Mono One";
+  font-size: 100px;
+  font-family: "Raintion-Black";
   position: relative;
   animation: designer-text-move 1.5s 1;
   animation-fill-mode: forwards;
@@ -48,8 +48,8 @@
 }
 
 .developer-text {
-  font-size: 90px;
-  font-family: "Rubik Mono One";
+  font-size: 100px;
+  font-family: "Raintion-Black";
   position: relative;
   animation: developer-text-move 1.5s 1;
   animation-fill-mode: forwards;
@@ -73,8 +73,8 @@
 }
 
 .tools-container {
-  width: 550px;
-  height: 350px;
+  width: 30vw;
+  height: 50vh;
   position: absolute;
   bottom: 10vh;
   left: 6%;

@@ -1,13 +1,13 @@
 .timeline-vertical {
   height: 200px;
-  width: 10px;
+  width: 5px;
   background-color: white;
   position: absolute;
 }
 
 .timeline-vertical-fill {
   height: 200px;
-  width: 10px;
+  width: 5px;
   background-color: white;
   position: absolute;
   background-color: #66ffda;
@@ -16,7 +16,7 @@
 }
 
 .timeline-horizontal {
-  height: 10px;
+  height: 5px;
   width: 90%;
   background-color: white;
   position: absolute;
@@ -25,7 +25,7 @@
 }
 
 .timeline-horizontal-fill {
-  height: 10px;
+  height: 5px;
   width: 90%;
   background-color: white;
   position: absolute;

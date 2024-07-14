@@ -9,7 +9,7 @@ export default function Journey() {
     <div className="experience-section">
       <p className="experience-title">Journey</p>
       <Timeline />
-      <div className="experience" style={{ top: "100px", left: "10%" }}>
+      <div className="experience" style={{ top: "120px", left: "10%" }}>
         <img
           className="experience-img"
           src="https://static.wixstatic.com/media/e43dd0_d4e8dc9a4ae44806a538689985508833~mv2.jpg/v1/fit/w_2500,h_1330,al_c/e43dd0_d4e8dc9a4ae44806a538689985508833~mv2.jpg"
@@ -40,7 +40,12 @@ export default function Journey() {
 
       <div
         className="experience"
-        style={{ top: "320px", right: "10%", justifyContent: "flex-end", textAlign: "end" }}
+        style={{
+          top: "340px",
+          right: "10%",
+          justifyContent: "flex-end",
+          textAlign: "end",
+        }}
       >
         <div className="experience-content">
           <h3>12th Grade CBSE</h3>
@@ -70,7 +75,7 @@ export default function Journey() {
         ></img>
       </div>
 
-      <div className="experience" style={{ top: "520px", left: "10%" }}>
+      <div className="experience" style={{ top: "540px", left: "10%" }}>
         <img
           className="experience-img"
           src="https://static.wixstatic.com/media/e43dd0_d4e8dc9a4ae44806a538689985508833~mv2.jpg/v1/fit/w_2500,h_1330,al_c/e43dd0_d4e8dc9a4ae44806a538689985508833~mv2.jpg"
@@ -102,7 +107,7 @@ export default function Journey() {
       <div
         className="experience"
         style={{
-          top: "720px",
+          top: "740px",
           right: "10%",
           justifyContent: "flex-end",
           textAlign: "end",
